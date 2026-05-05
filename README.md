@@ -1,2 +1,2 @@
-# ZenLedgerWebsite_Public
-Copy of College Project
+# ZenLedger Website
+This is our project for SWE4713
