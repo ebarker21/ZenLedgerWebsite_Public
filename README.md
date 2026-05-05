@@ -1,6 +1,6 @@
 # ZenLedger Website
 
-A college project for **SWE4713** — a recreation of the [ZenLedger](https://zenledger.io) cryptocurrency tax platform website, built iteratively across three agile sprints.
+A college project for **SWE4713** — an accounting/budgeting program built iteratively across three agile sprints.
 
 ---
 
